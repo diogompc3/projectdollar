@@ -7,9 +7,9 @@ Projeto desenvolvido durante estudos em manipulação de dados e visualização 
 
 ## Linguagens e Bibliotecas utilizadas:
 - Python: Linguagem escolhida
-  - Pandas: Para estruturação e manipulação de dados.
-  - Matplotlib: Para a construção do gráfico de linhas.
-  - yfinance: Para extração das informações do API do Yahoo Finance.
+- Pandas: Para estruturação e manipulação de dados.
+- Matplotlib: Para a construção do gráfico de linhas.
+- yfinance: Para extração das informações do API do Yahoo Finance.
 
 ## Para executar:
 1. Instalar o Python
