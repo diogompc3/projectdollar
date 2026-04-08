@@ -14,7 +14,7 @@ print(data_dollar.head())
 #Criando e configurando o gráfico
 plt.figure(figsize=(10, 5))
 plt.plot(data_dollar.index, data_dollar['Close'], color='green')
-plt.title('Variação da Cotação do Dólar (BRL) - 2024-2026')
+plt.title('Variação da Cotação do Dólar (BRL) - 2 Anos')
 plt.xlabel('Data')
 plt.ylabel('Valor do Dólar (R$)')
 plt.grid(True)
