@@ -15,3 +15,6 @@ Projeto desenvolvido durante estudos em manipulação de dados e visualização 
 1. Instalar o Python
 2. Instalar as dependências: 'pip install pandas matplotlib yfinance'
 3. Executeo arquivo: 'py project_dollar.py'
+
+## Exemplo de um gráfico gerado no dia 08/04/2026:
+![Gráfico](https://github.com/diogompc3/projectdollar/blob/main/Figure_dollar-2024-2026.png?raw=true)
